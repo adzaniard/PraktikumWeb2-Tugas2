@@ -439,7 +439,8 @@
   
   </html>
   ```
-  **Hasil Output**
+  **Hasil Output:**
+  
   ![Screenshot 2024-10-18 091458](https://github.com/user-attachments/assets/689d6e3b-128a-489d-827e-49f642197d50)
 
 - **Tampil data Disetujui**<br>
@@ -552,7 +553,8 @@
   
   </html>
   ```
-  **Hasil Output**
+  **Hasil Output:**
+  
 ![Screenshot 2024-10-18 091525](https://github.com/user-attachments/assets/58b51a26-b60a-42d3-82d0-03b13950842d)
   
 - **Tampil data Ditunda**<br>
@@ -778,6 +780,7 @@
   
   </html>
   ```
-  **Hasil Output**
+  **Hasil Output:**
+  
   ![Screenshot 2024-10-18 091649](https://github.com/user-attachments/assets/0a5bd83d-b899-4b8c-9095-f793e409f0f9)
 
