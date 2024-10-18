@@ -555,7 +555,7 @@
   ```
   **Hasil Output:**
   
-![Screenshot 2024-10-18 091525](https://github.com/user-attachments/assets/58b51a26-b60a-42d3-82d0-03b13950842d)
+  ![Screenshot 2024-10-18 091525](https://github.com/user-attachments/assets/58b51a26-b60a-42d3-82d0-03b13950842d)
   
 - **Tampil data Ditunda**<br>
   ```
